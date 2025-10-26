@@ -30,4 +30,4 @@ Avant de compiler, assure-toi d’avoir installé :
 Clone le projet et compile avec la commande suivante :
 
 ```bash
-g++ -std=c++17 -O2 -o youtube_downloader.exe src\main.cpp
+g++ -std=c++17 -O2 -o downloader.exe src\main.cpp
